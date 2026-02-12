@@ -105,10 +105,9 @@ Sou um **Data Engineering Intern** na **CNH Industrial**, focado em construir pi
 Quando não estou programando, você pode me encontrar:
 
 - 🎲 Jogando **RPG** e pintando **miniaturas** (Warhammer, D&D)
-- 🖨️ Criando terrenos e modelos em **impressora 3D** (Bambu Lab, Ender 3)
-- 📺 Assistindo **anime** (One Piece, Avatar) e explorando seus universos
-- 🎮 Jogando games (The Witcher, Tiny Tina's Wonderlands)
-- 💪 Treinando 6x por semana (musculação focada)
+- 🖨️ Criando terrenos e modelos em **impressora 3D** 
+- 🎮 Jogando games (The Witcher 3, Helldivers 2)
+- 💪 Treinando 5x por semana (musculação focada)
 
 ---
 
