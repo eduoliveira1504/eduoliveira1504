@@ -71,10 +71,6 @@ Sou um **Data Engineering Intern** na **CNH Industrial**, focado em construir pi
 > Chatbot para análise financeira com interface intuitiva  
 > **Tech:** Python, NLP
 
-### 🎨 [Portfolio](https://github.com/eduoliveira1504/Portfolio) | [Portfolio_ENG](https://github.com/eduoliveira1504/Porfolio_ENG)
-> Portfólio profissional demonstrando projetos e habilidades  
-> **Tech:** JavaScript, HTML, CSS
-
 ---
 
 ## 💡 Filosofia de Desenvolvimento
