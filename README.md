@@ -53,20 +53,6 @@ Sou um **Data Engineering Intern** na **CNH Industrial**, focado em construir pi
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=eduoliveira1504&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eduoliveira1504&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=eduoliveira1504&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🚀 Projetos em Destaque
 
 ### 🤖 [Machine Learning App](https://github.com/eduoliveira1504/Machine-Learning-App)
