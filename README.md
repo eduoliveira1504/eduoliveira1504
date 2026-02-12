@@ -115,6 +115,4 @@ Estou sempre aberto para discutir sobre **Data Engineering**, **ML/AI**, **Pytho
 ### ⚡ Fun Fact
 *Estou explorando modelos de LLM locais (Llama 3) e integrando dados históricos com aplicações em tempo real!*
 
-![Visitor Count](https://profile-counter.glitch.me/eduoliveira1504/count.svg)
-
 </div>
