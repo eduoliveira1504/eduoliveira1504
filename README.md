@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Data Engineering Intern** at **CNH Industrial**, focused on building efficient data pipelines and analytics solutions. Currently, I'm exploring two main career paths: **Data Engineering** and **ML/AI Engineering**.
+I'm an **Intern** at **CNH Industrial**, focused on building efficient data pipelines and analytics solutions. Currently, I'm exploring two main career paths: **Data Engineering** and **ML/AI Engineering**.
 
 🔹 **Location:** Curitiba, Paraná, Brazil  
 🔹 **Current Focus:** Data Engineering, Cloud Computing and Machine Learning  
