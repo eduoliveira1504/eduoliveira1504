@@ -5,9 +5,9 @@
 ### 💼 Intern @ CNH Industrial
 ### 🚀 Apaixonado por Data Engineering, Cloud & ML/AI
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin-aqui)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([seu-linkedin-aqui](https://www.linkedin.com/in/eduardo-oliveira-pereira/))
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://eduoliveira1504.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.oliveira1504@outlook.com)
 
 </div>
 
