@@ -1,9 +1,9 @@
 <div align="center">
   
-# 👋 Olá! Eu sou Eduardo de Oliveira
+# 👋 Hello! I'm Eduardo de Oliveira
 
 ### 💼 Intern @ CNH Industrial
-### 🚀 Apaixonado por Data Engineering, Cloud & ML/AI
+### 🚀 Passionate about Data Engineering, Cloud & ML/AI
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-oliveira-pereira/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://eduoliveira1504.github.io/Portfolio/)
@@ -13,26 +13,26 @@
 
 ---
 
-## 🧑‍💻 Sobre Mim
+## 🧑‍💻 About Me
 
-Sou um **Data Engineering Intern** na **CNH Industrial**, focado em construir pipelines de dados eficientes e soluções de analytics. Atualmente, estou explorando duas carreiras principais: **Data Engineering** e **ML/AI Engineering**.
+I'm a **Data Engineering Intern** at **CNH Industrial**, focused on building efficient data pipelines and analytics solutions. Currently, I'm exploring two main career paths: **Data Engineering** and **ML/AI Engineering**.
 
-🔹 **Localização:** Curitiba, Paraná, Brasil  
-🔹 **Foco atual:** Data Engineering, Cloud Computing e Machine Learning  
-🔹 **Interesses:** Desenvolvimento de dashboards, automação de processos e análise preditiva
+🔹 **Location:** Curitiba, Paraná, Brazil  
+🔹 **Current Focus:** Data Engineering, Cloud Computing and Machine Learning  
+🔹 **Interests:** Dashboard development, process automation and predictive analytics
 
-### 🎯 Atualmente
+### 🎯 Currently
 
-- 🔭 Trabalhando com **Databricks**, **Azure** e **SQL** na CNH Industrial
-- 🌱 Aprofundando conhecimentos em **ML/AI Engineering** e modelos locais (Llama 3)
-- 💡 Desenvolvendo projetos de **dashboards** e **analytics** com Python e Streamlit
-- 📊 Criando soluções de Data Engineering sem complexidade desnecessária
+- 🔭 Working with **Databricks**, **Azure** and **SQL** at CNH Industrial
+- 🌱 Deepening knowledge in **ML/AI Engineering** and local models (Llama 3)
+- 💡 Developing **dashboard** and **analytics** projects with Python and Streamlit
+- 📊 Creating Data Engineering solutions without unnecessary complexity
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Linguagens de Programação**
+### **Programming Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -53,53 +53,53 @@ Sou um **Data Engineering Intern** na **CNH Industrial**, focado em construir pi
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
 ### 🤖 [Machine Learning App](https://github.com/eduoliveira1504/Machine-Learning-App)
-> Aplicação de Machine Learning com interface interativa usando Streamlit  
+> Machine Learning application with interactive interface using Streamlit  
 > **Tech:** Python, Streamlit, Scikit-learn
 
 ### 📊 [Streamlit Cancer Predict](https://github.com/eduoliveira1504/streamlit-cancer-predict)
-> Modelo preditivo para análise de câncer com dashboard interativo  
+> Predictive model for cancer analysis with interactive dashboard  
 > **Tech:** Python, Streamlit, Machine Learning
 
 ### 💰 [Finance Project](https://github.com/eduoliveira1504/Finance-Project)
-> Dashboard de finanças pessoais com análise de dados sem banco de dados  
-> **Tech:** Python, armazenamento tipo planilha
+> Personal finance dashboard with data analysis without database  
+> **Tech:** Python, spreadsheet-like storage
 
 ### 💬 [ChatFinance](https://github.com/eduoliveira1504/chatfinance)
-> Chatbot para análise financeira com interface intuitiva  
+> Chatbot for financial analysis with intuitive interface  
 > **Tech:** Python, NLP
 
 ---
 
-## 💡 Filosofia de Desenvolvimento
+## 💡 Development Philosophy
 
-- ✅ **Python-First:** Desenvolvimento focado em Python para facilitar integração ao portfólio
-- ✅ **Data-Driven:** Decisões baseadas em dados e analytics
-- ✅ **Cloud-Native:** Experiência com Azure e plataformas cloud modernas
-
----
-
-## 🎮 Além do Código
-
-Quando não estou programando, você pode me encontrar:
-
-- 🎲 Jogando **RPG** e pintando **miniaturas** (Warhammer, D&D)
-- 🖨️ Criando terrenos e modelos em **impressora 3D** 
-- 🎮 Jogando games (The Witcher 3, Helldivers 2)
-- 💪 Treinando 5x por semana (musculação focada)
+- ✅ **Python-First:** Python-focused development to facilitate portfolio integration
+- ✅ **Data-Driven:** Data and analytics-based decisions
+- ✅ **Cloud-Native:** Experience with Azure and modern cloud platforms
 
 ---
 
-## 📫 Vamos Conversar?
+## 🎮 Beyond Code
 
-Estou sempre aberto para discutir sobre **Data Engineering**, **ML/AI**, **Python**, ou até mesmo **RPG** e **3D printing**! 
+When I'm not coding, you can find me:
+
+- 🎲 Playing **TTRPG** and painting **miniatures** (Warhammer, D&D)
+- 🖨️ Creating terrain and models on **3D printer** 
+- 🎮 Playing games (The Witcher 3, Helldivers 2)
+- 💪 Training 5x a week (focused weight training)
+
+---
+
+## 📫 Let's Connect?
+
+I'm always open to discuss **Data Engineering**, **ML/AI**, **Python**, or even **TTRPG** and **3D printing**! 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-Conecte--se-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([seu-linkedin](https://www.linkedin.com/in/eduardo-oliveira-pereira/))
-[![Portfolio](https://img.shields.io/badge/-Visite%20meu%20Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://eduoliveira1504.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-oliveira-pereira/)
+[![Portfolio](https://img.shields.io/badge/-Visit%20my%20Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://eduoliveira1504.github.io/Portfolio/)
 
 </div>
 
@@ -108,6 +108,6 @@ Estou sempre aberto para discutir sobre **Data Engineering**, **ML/AI**, **Pytho
 <div align="center">
   
 ### ⚡ Fun Fact
-*Estou explorando modelos de LLM locais (Llama 3) e integrando dados históricos com aplicações em tempo real!*
+*I'm exploring local LLM models (Llama 3) and integrating historical data with real-time applications!*
 
 </div>
