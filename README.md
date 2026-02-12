@@ -79,7 +79,6 @@ Sou um **Data Engineering Intern** na **CNH Industrial**, focado em construir pi
 
 ## 💡 Filosofia de Desenvolvimento
 
-- ✅ **Simplicidade:** Prefiro soluções diretas e eficientes (ex: armazenar dados como planilha quando não há necessidade de banco de dados)
 - ✅ **Python-First:** Desenvolvimento focado em Python para facilitar integração ao portfólio
 - ✅ **Data-Driven:** Decisões baseadas em dados e analytics
 - ✅ **Cloud-Native:** Experiência com Azure e plataformas cloud modernas
