@@ -2,7 +2,7 @@
   
 # 👋 Olá! Eu sou Eduardo de Oliveira
 
-### 💼 Data Engineering Intern @ CNH Industrial
+### 💼 Intern @ CNH Industrial
 ### 🚀 Apaixonado por Data Engineering, Cloud & ML/AI
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin-aqui)
