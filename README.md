@@ -2,7 +2,7 @@
   
 # 👋 Hello! I'm Eduardo de Oliveira
 
-### 💼 Intern @ CNH Industrial
+### 💼 Junior Data Scientist @ DRZ Global
 ### 🚀 Passionate about Data Engineering, Cloud & ML/AI
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-oliveira-pereira/)
@@ -23,7 +23,7 @@ I'm an **Intern** at **CNH Industrial**, focused on building efficient data pipe
 
 ### 🎯 Currently
 
-- 🔭 Working with **Databricks**, **Azure** and **SQL** at CNH Industrial
+- 🔭 Working with **IA/ML:**, **Azure** and **Fullstack** at DRZ Global
 - 🌱 Deepening knowledge in **ML/AI Engineering** and local models (Llama 3)
 - 💡 Developing **dashboard** and **analytics** projects with Python and Streamlit
 - 📊 Creating Data Engineering solutions without unnecessary complexity
