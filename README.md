@@ -26,7 +26,7 @@ actually gets made.
 - **Learning properly, not just reading about:** Airflow, dbt and DuckDB
 - **Looking for:** remote Data Engineering / Analytics Engineering roles, international
 
-At CNH Industrial I built the company's first predictive model of its kind, with its
+At CNH Industrial I built the company's predictive model of its kind, with its 
 output feeding a dashboard used by directors and C-level.
 
 ---
