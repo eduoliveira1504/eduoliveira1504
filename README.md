@@ -1,69 +1,80 @@
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/aureum-banner-dark.svg">
+    <img src="assets/aureum-banner-light.svg" alt="Aureum" width="100%">
+  </picture>
 
-# Eduardo de Oliveira
+  **Independent software for Windows, designed and built by one person.**
 
-### Data Engineer · Data Scientist
-
-Curitiba, Brazil · Open to remote roles worldwide
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-oliveira-pereira/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eduardo.oliveira1504@outlook.com)
-
+  [Aureum Voice](https://github.com/eduoliveira1504/aureum-voice) ·
+  [Aureum Island](https://github.com/eduoliveira1504/aureum-island) ·
+  [LinkedIn](https://www.linkedin.com/in/eduardo-oliveira-pereira)
 </div>
 
----
+## Products
 
-## About
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I'm a Junior Data Scientist at **DRZ Global**, coming from two years in BI and analytics.
-Most of my work sits on the ingestion → modeling → delivery side of data: moving data
-that arrives messy, modeling it in SQL, and putting predictive output where a decision
-actually gets made.
+### Aureum Voice
+Chat and voice for friends and small teams: live voice rooms, camera and
+screen sharing, soundboard, full chat, Kanban and calendar add-ons.
+No ads, no AI features.
 
-- **Now:** ClickHouse, MongoDB, LangChain and predictive models at DRZ Global
-- **Before:** 2 years of BI & analytics with Databricks, PySpark, Azure and Power BI
-  (CNH Industrial, SEFA-PR)
-- **Learning properly, not just reading about:** Airflow, dbt and DuckDB
-- **Looking for:** remote Data Engineering / Analytics Engineering roles, international
+`Electron` `React` `TypeScript` `FastAPI` `PostgreSQL` `Redis` `LiveKit`
 
-At CNH Industrial I built the company's predictive model of its kind, with its 
-output feeding a dashboard used by directors and C-level.
+**Closed beta** · [Landing page](https://eduoliveira1504.github.io/aureum-voice)
 
----
+</td>
+<td width="50%" valign="top">
 
-## Stack
+### Aureum Island
+A notch for the top of your Windows 10/11 screen: music, focus timer, water
+tracker, tasks and calendar (Google and Outlook via ICS). Free, no account,
+no telemetry, everything stays on your PC.
 
-| | |
-|---|---|
-| **Languages** | Python, SQL |
-| **Data Engineering** | PySpark, Databricks, Azure (Data Lake, Storage), ClickHouse, PostgreSQL, MongoDB |
-| **Currently learning** | Airflow, dbt, DuckDB |
-| **ML / AI** | scikit-learn, LangChain, local LLMs (Llama 3 via Ollama) |
-| **Analytics** | Power BI, Streamlit, Pandas |
+`Python`
 
----
+**v0.2.0** · [Download](LINK-TO-CONFIRM)
 
-## Projects
+</td>
+</tr>
+</table>
 
-I'm rebuilding this section from scratch. My earlier public repos were coursework and
-tutorial follow-alongs — I took them down instead of listing them as portfolio work.
+## Founder
 
-**In progress — job-matching data pipeline.** A local, zero-cost pipeline that ingests
-job postings from public APIs, models them with dbt on DuckDB, ranks them against my
-profile using sentence embeddings, and emails a daily digest. Orchestrated with Airflow.
-Public from the first commit, so the history shows how it was built.
+I'm Eduardo, founder of Aureum, based in Curitiba, Brazil. I design, build
+and ship every part of it, from the desktop clients to the backend.
 
----
+By day I'm a junior data scientist. I spent two years in BI and analytics
+(Databricks, PySpark, Azure, Power BI) and now work with SQL, MongoDB and
+predictive models.
 
-## Beyond code
+**Stack:** Python · SQL · Spark · MongoDB · Databricks · Azure · Power BI ·
+TypeScript · FastAPI · PostgreSQL
 
-TTRPG and miniature painting (Warhammer, D&D), 3D printing, and weight training 5x a week.
+<details>
+<summary><b>Português</b></summary>
 
----
+**Software independente para Windows, projetado e construído por uma pessoa.**
 
-<div align="center">
+## Produtos
 
-Happy to talk about data engineering, pipelines, or Python —
-[reach out on LinkedIn](https://www.linkedin.com/in/eduardo-oliveira-pereira/).
+- **Aureum Voice**: chat e voz para amigos e pequenas equipes. Salas de voz,
+  câmera e tela compartilhada, soundboard, chat completo, Kanban e calendário.
+  Sem anúncios e sem IA. *Beta fechado.*
+- **Aureum Island**: um notch para o topo da tela do Windows 10/11, com música,
+  foco, água, tarefas e calendário (Google e Outlook via ICS). Grátis, sem
+  conta, sem telemetria, tudo no seu computador. *v0.2.0.*
 
-</div>
+## Fundador
+
+Sou o Eduardo, fundador da Aureum, em Curitiba. Projeto, construo e publico
+tudo, do cliente desktop ao backend.
+
+No dia a dia sou cientista de dados júnior: dois anos em BI e analytics
+(Databricks, PySpark, Azure, Power BI), e hoje trabalho com SQL, MongoDB e
+modelos preditivos.
+
+</details>
